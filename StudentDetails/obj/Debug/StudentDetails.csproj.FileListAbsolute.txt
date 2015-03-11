@@ -1,0 +1,16 @@
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\bin\StudentDetails.dll
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\bin\StudentDetails.pdb
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\obj\Debug\StudentDetails.dll
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\obj\Debug\StudentDetails.pdb
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\bin\Newtonsoft.Json.dll
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\bin\Newtonsoft.Json.pdb
+F:\C#\Visual Studio\WCF\StudentDetails\StudentDetails\bin\Newtonsoft.Json.xml
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\bin\StudentDetails.dll
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\bin\StudentDetails.pdb
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\bin\Newtonsoft.Json.dll
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\bin\Newtonsoft.Json.pdb
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\bin\Newtonsoft.Json.xml
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\obj\Debug\StudentDetails.dll
+F:\C#\Visual Studio\WCF\StudentDetails1111\StudentDetails\StudentDetails\obj\Debug\StudentDetails.pdb

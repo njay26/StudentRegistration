@@ -1,0 +1,184 @@
+﻿.pageHeader
+{
+    position: absolute;
+    background-color: black;
+    top: 1px;
+    width: 99.9%;
+    height: 95px;
+    margin: .1px;
+    left: 1.2px;
+}
+.pageFooter
+{
+    background-color: black;
+    height: 42px;
+    width: 99.9%;
+    position: absolute;
+    top: 860px !important;
+    left: 1px;
+    text-align: center;
+    color: white;
+}
+
+.SignatureContainer
+{
+    top: 9px;
+    position: relative;
+}
+#Container
+{
+    position: absolute;
+    top: 96px;
+    width: 99.9%;
+    bottom: -159px;
+    margin: .1px;
+    left: -1px;
+}
+.LoginContainer
+{
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 2px;
+}
+#DetailsContainer
+{
+    left: 34%;
+    top: 1px;
+}
+#PasswordHintContainer
+{
+    left: 39%;
+    top: 47px;
+}
+#StudentLoginContainer
+{
+    left: 39%;
+    top: 33px;
+}
+#RegistraionContainer
+{
+    left: 39%;
+    top: 63px;
+}
+#StudentTable
+{
+    left: 2%;
+    top: 1px;
+}
+h2
+{
+    color: white !important;
+    left: 35%;
+    position: absolute;
+    top: 12px !important;
+}
+#menuBar
+{
+    left: 31%;
+    position: relative;
+}
+.submit
+{
+    left: 3px;
+    position: relative;
+    width: 174px;
+    height: 29px;
+}
+#MessageTe
+{
+    text-align: center;
+    top: 45px;
+    position: relative;
+}
+#DeatilsMessage
+{
+    text-align: center;
+    top: 20px;
+    position: relative;
+}
+#DeatilsMessage
+{
+    text-align: center;
+    top: 20px;
+    position: relative;
+}
+#RegistraionMessage
+{
+    text-align: center;
+    top: -34px;
+    position: relative;
+}
+#PasswordHintMessage
+{
+    text-align: center;
+    top: -24px;
+    position: relative;
+}
+#LoginMessage
+{
+    text-align: center;
+    top: -17px;
+    position: relative;
+}
+input#Button1
+{
+    left: 509px;
+}
+input#StudentContainer_GetpasswordHint
+{
+    left: 104px;
+}
+.Logout
+{
+    top: -28px;
+    left: 827px;
+    position: relative;
+}
+.LogoutFromStutentTable
+{
+    top: -54px;
+    left: 1258px;
+    position: relative;
+}
+input#StudentContainer_GoBackPage
+{
+    top: -28px;
+    left: -27px;
+    position: relative;
+}
+input#StudentContainer_LogoutFromStutentTable
+{
+    position: absolute;
+    top: -38px;
+    left: 1152px;
+}
+div#AdminUserPageTable
+{
+    top: 38px;
+    left: 135px;
+}
+label#AdminUserPageTableMessage
+{
+    position: relative;
+    top: -8px;
+}
+th
+{
+    white-space: nowrap;
+}
+tr
+{
+    white-space: nowrap;
+}
+table#AdminUserPageTable
+{
+    text-align: center;
+}
+#EditOption {
+position: absolute;
+top: -421px;
+left: 845px;
+width: 112px;
+color: black;
+}
